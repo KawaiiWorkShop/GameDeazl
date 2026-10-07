@@ -1,0 +1,8 @@
+{
+  "name": "GameDealz",
+  "description": "Steam ve Epic Games oyun fiyatlarını ve indirimlerini takip etme uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

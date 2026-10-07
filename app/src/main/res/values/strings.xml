@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GameDealz</string>
+    <string name="nav_deals">İndirimler</string>
+    <string name="nav_search">Arama</string>
+    <string name="nav_watchlist">Takip Listem</string>
+    <string name="nav_notifications">Bildirimler</string>
+    <string name="filter_all">Tümü</string>
+    <string name="filter_steam">Steam</string>
+    <string name="filter_epic">Epic Games</string>
+    <string name="sort_savings">En Çok İndirim</string>
+    <string name="sort_deal_rating">En İyi Fırsat</string>
+    <string name="sort_price_low">Fiyat: Düşükten Yükseğe</string>
+    <string name="sort_metacritic">Metacritic Puanı</string>
+    <string name="search_placeholder">Oyun ara (örn. Cyberpunk, Witcher, GTA)...</string>
+    <string name="btn_track">İndirimi Haber Ver</string>
+    <string name="btn_tracking">Takip Ediliyor</string>
+    <string name="btn_view_deal">Mağazada Gör</string>
+    <string name="notification_permission_title">İndirim Bildirimleri</string>
+    <string name="notification_permission_desc">Takip ettiğiniz oyunlarda indirim başladığında bildirim alın.</string>
+</resources>
